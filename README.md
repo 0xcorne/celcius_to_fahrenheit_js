@@ -1,1 +1,1 @@
-# celcius_to_fahrenheit_js
+# celsius_to_fahrenheit_js
